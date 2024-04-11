@@ -1,0 +1,22 @@
+{
+  "name": "naeeb-18-number-guessing-game",
+  "version": "2.0.1",
+  "description": "\"Creating a number guessing game using typescript\"",
+  "main": "game.js",
+  "type": "module",
+  "bin": "game.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Naeeb Sohail\"",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
